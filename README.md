@@ -10,8 +10,6 @@ This is a challenge given by Patika.Dev organization, as a complementary resourc
 
 ![start-page](./screenshots/start-page.png)
 ![questions-page](./screenshots/questions-page.png)
-![correct-answer](./screenshots/correct-answer.png)
-![false-answer](./screenshots/false-answer.png)
 ![final-page](./screenshots/final-page.png)
 
 ## Available Scripts
