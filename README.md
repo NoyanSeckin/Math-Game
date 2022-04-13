@@ -4,7 +4,7 @@
 
 ## About The Project
 
-This is a challenge given by Patika.Dev organization, as a complementary resource to contribute students' bootcamp experience. 
+This is a challenge given by Patika.Dev organization, as a complementary resource to contribute our bootcamp experience. 
 
 ## Screen Shots
 
